@@ -21,8 +21,7 @@ This project features a 3D model of a traditional "Tea Kadai" (tea shop) created
 This model is for personal and educational use. Please do not redistribute or sell without permission.
 
 ## Contact
-For any inquiries or feedback, please reach out to [Your Email Here].
+For any inquiries or feedback.
 
 ---
 
-Feel free to replace "[Your Email Here]" with your actual contact information!
